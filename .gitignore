@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# VSCode and PyCharm config (optional, if using those)
+.vscode/
+.idea/
+
+# Test/report files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Python dependency files (optional)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Cache files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# dotenv / secrets
+.env
+.env.*
+
+# mypy / type checking
+.mypy_cach_
+
